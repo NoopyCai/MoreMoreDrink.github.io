@@ -1,5 +1,6 @@
 html{
     background: url(https://www.ygo-lab.com/archive/image/customization/190603_bg.jpg);
+    user-select: none;
 }
 *{
     margin: 0;
