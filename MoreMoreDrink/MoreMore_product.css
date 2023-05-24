@@ -131,10 +131,7 @@ html{
 .content-menu-img > img{
     object-fit: cover;
 }
-.content-menu-img:hover{
-    transform: scale(1.1);
-    transition: 0.5s;
-}
+
 
 .product-content{
     width: 100%;
